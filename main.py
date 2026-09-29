@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 
 # ── Environment variables ─────────────────────────────────────────────────
 BOT_TOKEN = '8902772591:AAFejeM69RHLe3Hh_r0B34bvXgxvZwXUaLQ'
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 ADMIN_ID = "5854918261"
 REPO_OWNER = "htetlinaung123ace-gif"
 REPO_NAME = "Bot202"
